@@ -1,9 +1,9 @@
 package sandbox;
 
-import Exceptions.ConeParametersException;
-import Exceptions.CylinderParametersException;
-import Exceptions.FigureStateException;
-import Exceptions.RegularTetrahedronParametersException;
+import exceptions.ConeParametersException;
+import exceptions.CylinderParametersException;
+import exceptions.FigureStateException;
+import exceptions.RegularTetrahedronParametersException;
 
 public class Geometry3DCalculator {
 

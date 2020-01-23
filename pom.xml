@@ -3,7 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+    <name>Main POM</name>
+    <inceptionYear>23.01.2020</inceptionYear>
+    <description>
+        on A-level courses we have started this project
+    </description>
     <groupId>org.example</groupId>
     <artifactId>JunitTesting</artifactId>
     <version>1.0-SNAPSHOT</version>
